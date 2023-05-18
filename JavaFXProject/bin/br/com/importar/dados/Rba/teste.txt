@@ -1,0 +1,7 @@
+Nome,Valor,Quantidade
+Notebook Gamer,2100.90,10
+Smartphone X,1890.00,23
+TV LED 70,3500.89,8
+Relogio,780.90,4
+TV, 6500.00,3
+Microondas, 1200.99,2
